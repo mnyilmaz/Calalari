@@ -37,5 +37,5 @@
   
 <br/>  
 <div align="center"><h2>GitHub Stats🦋<h2></div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=calalari&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=calalari&show_icons=true&count_private=true&hide_border=false" align="center" /></div>  
 <br />
