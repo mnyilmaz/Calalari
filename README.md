@@ -1,5 +1,7 @@
 <h1 align="center">🦋 Calalari</h1>
-![Calalari](https://raw.githubusercontent.com/Calalari/Calalari/main/header.png)
+
+<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=calalari&show_icons=true&locale=en](https://raw.githubusercontent.com/Calalari/Calalari/main/header.png)" alt="calalari" /></p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calalari" alt="calalari" /></a> </p>
 
