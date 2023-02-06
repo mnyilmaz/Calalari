@@ -5,8 +5,3 @@
 </div>  
 
 #### *<div align="center">anima enim conciousness🦋</div>*  
-  
-
-  
-  
-
