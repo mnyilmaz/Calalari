@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: Arial">Calalari</h1>
+<h1 align="center" style="font-family: New Courier">Calalari</h1>
 
 <div align="center">
 <img src="https://j.gifs.com/vOBxO7.gif" align="center" style="width: 110%"/>
