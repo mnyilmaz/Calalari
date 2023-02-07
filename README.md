@@ -12,4 +12,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=calalari&title_color=FF5733&icon_color=FF5733&text_color=918E8E&bg_color=00000000&border_color=373737&show_icons=true&locale=en&layout=compact" alt="calalari" /></p>
 
 </div> 
-
