@@ -7,7 +7,7 @@
 </br>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calalari&itle_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&border_color=4F4F4F&show_icons=true&locale=en" alt="calalari" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=calalari&itle_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&border_color=373737&show_icons=true&locale=en" alt="calalari" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=calalari&itle_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&border_color=4F4F4F&show_icons=true&locale=en&layout=compact" alt="calalari" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=calalari&itle_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&border_color=373737&show_icons=true&locale=en&layout=compact" alt="calalari" /></p>
 
