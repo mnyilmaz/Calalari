@@ -1,8 +1,9 @@
 <h1 align="center">mnyilmaz</h1>
 
 <div align="center">
-<img src="https://github.com/Calalari/Calalari/blob/main/butterfly.gif" align="center" style="width: 80%"/>
-</div> 
+![](/butterfly.gif)
+  
+
 </br>
 
 <div align="center">
