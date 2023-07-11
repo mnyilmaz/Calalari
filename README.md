@@ -11,6 +11,6 @@
 </br>
 ![mnyilmaz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mnyilmaz&title_color=e45800&icon_color=e45800&text_color=918E8E&bg_color=00000000&border_color=373737&layout=compact)
 </br>
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](/profile-night-green-animate.svg)
 
 </div> 
