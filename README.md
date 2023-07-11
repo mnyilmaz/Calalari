@@ -1,10 +1,11 @@
 <h1 align="center">mnyilmaz</h1>
 
 <div align="center">
-![](/butterfly.gif)
+<img src="https://github.com/Calalari/Calalari/blob/main/butterfly.gif" align="center" style="width: 80%"/>
   
 </div> 
 </br>
+![](/butterfly.gif)
 
 <div align="center">
   
